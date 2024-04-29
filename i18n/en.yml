@@ -86,11 +86,11 @@ commons:
     button_title: Click to copy
   close: Close
   contact:
-    address: Address
+    address: Location
     email: Email
     phone: Phone
-    phone_professional: Professional phone
-    website: Site web
+    phone_professional: Business Phone
+    website: Website
   credit: A low impact website crafted with <a href="https://www.osuny.org/" title="Osuny - extern link" target="_blank" rel="noreferrer">Osuny</a>
   date: Date
   download:
