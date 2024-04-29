@@ -4,7 +4,7 @@ blocks:
   categories:
     title: Catégories
     items:
-      count: 
+      count:
         one: "1 article"
         other: "{{ .Count }} articles"
   chapter:
@@ -86,13 +86,11 @@ commons:
     button_title: Click to copy
   close: Close
   contact:
-    address: Address
+    address: Location
     email: Email
     phone: Phone
-    phone_professional: Professional phone
+    phone_professional: Business Phone
     website: Website
-    web: Web
-    schedule: Hours
   credit: A low impact website crafted with <a href="https://www.osuny.org/" title="Osuny - extern link" target="_blank" rel="noreferrer">Osuny</a>
   date: Date
   download:
@@ -265,7 +263,7 @@ projects:
 programs:
   accessibility: Accessibility
   administrative_information: Administrative information
-  certifications: 
+  certifications:
     qualiopi: Qualiopi, processus certifié, République Française
   contacts: Contacts
   evaluation: Evaluation
